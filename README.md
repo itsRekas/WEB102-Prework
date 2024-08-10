@@ -21,9 +21,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<video autoplay loop muted playsinline>
-  <source src="https://i.imgur.com/your-gif-id.mp4" type="video/mp4">
-</video>
+<img src="https://i.imgur.com/abc123.gif" alt="A walkthrough of implemented features" width="600" height="400" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
