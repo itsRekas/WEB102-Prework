@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://drive.google.com/file/d/1H8HEmBHuAacwYiC-LYR_eghgb_J1MGIU/preview" width="640" height="480" allow="autoplay"></iframe>
+![submission](https://github.com/user-attachments/assets/d0837cae-62a8-43c7-8036-32a41506f907)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
