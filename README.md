@@ -12,10 +12,10 @@ The following **required** functionality is completed:
 
 * [x] Can you view the game stats in the dashboard at the top of the Sea Monster website?
 * [x] Can you use the "Show Unfunded Only" and "Show Funded Only" buttons to view filtered versions of the game list?
-* [ ] Did you successfully push your code to GitHub? Can you see the code on GitHub?
+* [x] Did you successfully push your code to GitHub? Can you see the code on GitHub?
 * [x] Did you complete the README.md in the repo on GitHub?
-* [ ] Does your README include a GIF walkthrough of the site's functionality?
-* [ ] Did you visit your application dashboard and submit using the pre-work form?
+* [x] Does your README include a GIF walkthrough of the site's functionality?
+* [x] Did you visit your application dashboard and submit using the pre-work form?
 
 ## Video Walkthrough
 
@@ -26,8 +26,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[LiceCap ](https://www.screentogif.com/) for Windows -->
+[LiceCap ](https://www.screentogif.com/) for Windows
 
 ## Notes
 
