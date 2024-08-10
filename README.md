@@ -21,7 +21,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WU6jYFG" data-context="false" ><a href="//imgur.com/a/WU6jYFG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<video autoplay loop muted playsinline>
+  <source src="https://i.imgur.com/your-gif-id.mp4" type="video/mp4">
+</video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
