@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/abc123.gif" alt="A walkthrough of implemented features" width="600" height="400" />
+<iframe src="https://drive.google.com/file/d/1H8HEmBHuAacwYiC-LYR_eghgb_J1MGIU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
